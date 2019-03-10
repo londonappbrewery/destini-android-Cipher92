@@ -52,6 +52,17 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
+    <Button
+        android:id="@+id/buttonReset"
+        android:layout_width="251dp"
+        android:layout_height="46dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="@string/RSButtonTxt"
+        android:textColor="#ecf0f1"
+        android:textSize="15sp" />
 
 
 </RelativeLayout>
